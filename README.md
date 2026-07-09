@@ -5,7 +5,7 @@ An AI-powered resume analyzer that gives you a recruiter-grade breakdown of your
 ![Dashboard](screenshots/dashboard.png)
 
 ## 🚀 Live Demo
-[Try it here](your-deployed-link-once-you-have-one)
+[Try it here](https://ai-career-assistant-czmxu7w4z8jnrn5ja4hyr9.streamlit.app/)
 
 ## ✨ Features
 - 📄 PDF resume upload with automatic text extraction
